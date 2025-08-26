@@ -1,6 +1,8 @@
 # MoeBert-BILSTM-CRF
 使用MoeBert-BILSTM-CRF进行实体识别。
 
+![MoE-使用文档-PaddlePaddle深度学习平台](./README.assets/moe_layer.png)
+
 # 环境依赖
 
 ```sehll
